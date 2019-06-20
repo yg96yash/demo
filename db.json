@@ -1,14 +1,27 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    name: 'ABC',
+    emp_id : 'PTPL-101',
+    dept: 'CampDavid',
+},
+  {
+    name: 'DEF',
+    emp_id : 'PTPL-102',
+    dept: 'CampDavid',
+},
+  {
+    name: 'LMN',
+    emp_id : 'PTPL-104',
+    dept: 'PRAdi',
+},
+  {
+    name: 'PQR',
+    emp_id : 'PTPL-108',
+    dept: 'Rushmore',
+},
+  {
+    name: 'XYZ',
+    emp_id : 'PTPL-110',
+    dept: 'PRAdi',
 }
+]
